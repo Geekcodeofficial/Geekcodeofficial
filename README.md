@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **AI and Cloud Engineering**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Geekcodeofficial/Geekcodeofficial/issues)**
+💬 Ask me about **Django**
 
 ⚡ Fun fact: **Honey never spoils; archaeologists found edible honey in tombs. 🍯**
 
