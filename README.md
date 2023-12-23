@@ -12,9 +12,6 @@
  
  🔭 I’m currently working on **Python Projects**
  
- 🌱 I’m currently learning **AI and Cloud Engineering**
-
-💬 Ask me about **Django**
 
 ⚡ Fun fact: **Honey never spoils; archaeologists found edible honey in tombs. 🍯**
 
