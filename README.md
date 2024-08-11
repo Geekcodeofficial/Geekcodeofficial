@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Python Projects**
+ 🔭 I’m currently studying **Data Engineering**
  
 
 ⚡ Fun fact: **Honey never spoils; archaeologists found edible honey in tombs. 🍯**
