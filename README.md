@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **Data Engineering**
+ 🔭 I’m currently studying **Data Engineering And Data Science**
  
 
 ⚡ Fun fact: **Honey never spoils; archaeologists found edible honey in tombs. 🍯**
